@@ -1,11 +1,32 @@
-# simple-converter-F-C
-Temperature Conversion - Celsius to Fahrenheit 
+<h1> Converter F-C </h1>
 
- Convert Celsius to Fahrenheit and vice versa.
- 
- 
- Technologies:
- HTML, CSS and JS
+>from the series: learning the basics of Java script  :muscle:
+
+----
+
+enter the number and just convert! :blush:
+
+-------
+
+<h3>What did I use in the project? What have I learned?</h3>
+
+* I learned the basics of JS here ( value, toFixed )
+* I practiced CSS
+* Arrow  functions
+* DOM Elements (querySelector)
+* Events (addEventListener)
+
+
+
+-----
+
+
+:computer: TECHNOLOGIES : html, css and JS.
+
+—------
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/password-validator)
+
+
 
 
 
