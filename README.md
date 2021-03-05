@@ -34,11 +34,11 @@ enter the number and just convert! :blush:
 
 —------
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/simple-converter-F-C/html.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/simple-converter-F-C/html.html)
 
 
 -----
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/password-validator)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/password-validator)
 
 
 
